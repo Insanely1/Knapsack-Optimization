@@ -1,6 +1,3 @@
-"# Knapsack-Optimization" 
-Perfect ✅ — a polished README.md makes a big impression in interviews.
-Since your project is about Knapsack Problem optimization using DP, GA, PSO, SA with data and plots, here’s a strong interview-ready README template you can use.
 
 Knapsack Optimization Algorithms 🚀
 
